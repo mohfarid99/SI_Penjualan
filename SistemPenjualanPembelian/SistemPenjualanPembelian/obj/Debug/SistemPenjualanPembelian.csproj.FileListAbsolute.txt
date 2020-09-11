@@ -1,0 +1,120 @@
+D:\KAMPUS\_PBD\_PBD_GASAL 2019-2020\Slide new\Week1\SistemPenjualanPembelian\SistemPenjualanPembelian\bin\Debug\SistemPenjualanPembelian.exe.config
+D:\KAMPUS\_PBD\_PBD_GASAL 2019-2020\Slide new\Week1\SistemPenjualanPembelian\SistemPenjualanPembelian\bin\Debug\SistemPenjualanPembelian.exe
+D:\KAMPUS\_PBD\_PBD_GASAL 2019-2020\Slide new\Week1\SistemPenjualanPembelian\SistemPenjualanPembelian\bin\Debug\SistemPenjualanPembelian.pdb
+D:\KAMPUS\_PBD\_PBD_GASAL 2019-2020\Slide new\Week1\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Debug\SistemPenjualanPembelian.csprojAssemblyReference.cache
+D:\KAMPUS\_PBD\_PBD_GASAL 2019-2020\Slide new\Week1\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Debug\SistemPenjualanPembelian.FormUtama.resources
+D:\KAMPUS\_PBD\_PBD_GASAL 2019-2020\Slide new\Week1\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Debug\SistemPenjualanPembelian.Properties.Resources.resources
+D:\KAMPUS\_PBD\_PBD_GASAL 2019-2020\Slide new\Week1\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Debug\SistemPenjualanPembelian.csproj.GenerateResource.cache
+D:\KAMPUS\_PBD\_PBD_GASAL 2019-2020\Slide new\Week1\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Debug\SistemPenjualanPembelian.csproj.CoreCompileInputs.cache
+D:\KAMPUS\_PBD\_PBD_GASAL 2019-2020\Slide new\Week1\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Debug\SistemPenjualanPembelian.exe
+D:\KAMPUS\_PBD\_PBD_GASAL 2019-2020\Slide new\Week1\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Debug\SistemPenjualanPembelian.pdb
+D:\KAMPUS\_PBD\_PBD_GASAL 2019-2020\Slide new\Week1\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Debug\SistemPenjualanPembelian.FormDaftarKategori.resources
+D:\KAMPUS\_PBD\_PBD_GASAL 2019-2020\Slide new\Week1\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Debug\SistemPenjualanPembelian.FormDaftarBarang.resources
+D:\KAMPUS\_PBD\_PBD_GASAL 2019-2020\Week2\SistemPenjualanPembelian\SistemPenjualanPembelian\bin\Debug\SistemPenjualanPembelian.exe.config
+D:\KAMPUS\_PBD\_PBD_GASAL 2019-2020\Week2\SistemPenjualanPembelian\SistemPenjualanPembelian\bin\Debug\SistemPenjualanPembelian.exe
+D:\KAMPUS\_PBD\_PBD_GASAL 2019-2020\Week2\SistemPenjualanPembelian\SistemPenjualanPembelian\bin\Debug\SistemPenjualanPembelian.pdb
+D:\KAMPUS\_PBD\_PBD_GASAL 2019-2020\Week2\SistemPenjualanPembelian\SistemPenjualanPembelian\bin\Debug\JualBeli_LIB.dll
+D:\KAMPUS\_PBD\_PBD_GASAL 2019-2020\Week2\SistemPenjualanPembelian\SistemPenjualanPembelian\bin\Debug\MySql.Data.dll
+D:\KAMPUS\_PBD\_PBD_GASAL 2019-2020\Week2\SistemPenjualanPembelian\SistemPenjualanPembelian\bin\Debug\JualBeli_LIB.pdb
+D:\KAMPUS\_PBD\_PBD_GASAL 2019-2020\Week2\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Debug\SistemPenjualanPembelian.csprojAssemblyReference.cache
+D:\KAMPUS\_PBD\_PBD_GASAL 2019-2020\Week2\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Debug\SistemPenjualanPembelian.FormDaftarKategori.resources
+D:\KAMPUS\_PBD\_PBD_GASAL 2019-2020\Week2\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Debug\SistemPenjualanPembelian.FormDaftarBarang.resources
+D:\KAMPUS\_PBD\_PBD_GASAL 2019-2020\Week2\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Debug\SistemPenjualanPembelian.FormUtama.resources
+D:\KAMPUS\_PBD\_PBD_GASAL 2019-2020\Week2\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Debug\SistemPenjualanPembelian.Properties.Resources.resources
+D:\KAMPUS\_PBD\_PBD_GASAL 2019-2020\Week2\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Debug\SistemPenjualanPembelian.csproj.GenerateResource.cache
+D:\KAMPUS\_PBD\_PBD_GASAL 2019-2020\Week2\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Debug\SistemPenjualanPembelian.csproj.CoreCompileInputs.cache
+D:\KAMPUS\_PBD\_PBD_GASAL 2019-2020\Week2\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Debug\SistemPenjualanPembelian.csproj.CopyComplete
+D:\KAMPUS\_PBD\_PBD_GASAL 2019-2020\Week2\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Debug\SistemPenjualanPembelian.exe
+D:\KAMPUS\_PBD\_PBD_GASAL 2019-2020\Week2\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Debug\SistemPenjualanPembelian.pdb
+D:\KAMPUS\_PBD\_PBD_GASAL 2019-2020\Week2\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Debug\SistemPenjualanPembelian.FormLogin.resources
+D:\KAMPUS\_PBD\_PBD_GASAL 2019-2020\Week2\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Debug\SistemPenjualanPembelian.FormHapusBarang.resources
+D:\KAMPUS\_PBD\_PBD_GASAL 2019-2020\Week2\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Debug\SistemPenjualanPembelian.FormHapusKategori.resources
+D:\KAMPUS\_PBD\_PBD_GASAL 2019-2020\Week2\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Debug\SistemPenjualanPembelian.FormHapusPegawai.resources
+D:\KAMPUS\_PBD\_PBD_GASAL 2019-2020\Week2\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Debug\SistemPenjualanPembelian.FormTambahBarang.resources
+D:\KAMPUS\_PBD\_PBD_GASAL 2019-2020\Week2\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Debug\SistemPenjualanPembelian.FormTambahKategori.resources
+D:\KAMPUS\_PBD\_PBD_GASAL 2019-2020\Week2\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Debug\SistemPenjualanPembelian.FormTambahNotaJual.resources
+D:\KAMPUS\_PBD\_PBD_GASAL 2019-2020\Week2\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Debug\SistemPenjualanPembelian.FormTambahPegawai.resources
+D:\KAMPUS\_PBD\_PBD_GASAL 2019-2020\Week2\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Debug\SistemPenjualanPembelian.FormUbahBarang.resources
+D:\KAMPUS\_PBD\_PBD_GASAL 2019-2020\Week2\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Debug\SistemPenjualanPembelian.FormUbahKategori.resources
+D:\KAMPUS\_PBD\_PBD_GASAL 2019-2020\Week2\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Debug\SistemPenjualanPembelian.FormUbahPegawai.resources
+D:\KAMPUS\_PBD\_PBD_GASAL 2019-2020\Week3\SistemPenjualanPembelian\SistemPenjualanPembelian\bin\Debug\SistemPenjualanPembelian.exe.config
+D:\KAMPUS\_PBD\_PBD_GASAL 2019-2020\Week3\SistemPenjualanPembelian\SistemPenjualanPembelian\bin\Debug\SistemPenjualanPembelian.exe
+D:\KAMPUS\_PBD\_PBD_GASAL 2019-2020\Week3\SistemPenjualanPembelian\SistemPenjualanPembelian\bin\Debug\SistemPenjualanPembelian.pdb
+D:\KAMPUS\_PBD\_PBD_GASAL 2019-2020\Week3\SistemPenjualanPembelian\SistemPenjualanPembelian\bin\Debug\JualBeli_LIB.dll
+D:\KAMPUS\_PBD\_PBD_GASAL 2019-2020\Week3\SistemPenjualanPembelian\SistemPenjualanPembelian\bin\Debug\MySql.Data.dll
+D:\KAMPUS\_PBD\_PBD_GASAL 2019-2020\Week3\SistemPenjualanPembelian\SistemPenjualanPembelian\bin\Debug\JualBeli_LIB.pdb
+D:\KAMPUS\_PBD\_PBD_GASAL 2019-2020\Week3\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Debug\SistemPenjualanPembelian.csprojAssemblyReference.cache
+D:\KAMPUS\_PBD\_PBD_GASAL 2019-2020\Week3\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Debug\SistemPenjualanPembelian.FormDaftarKategori.resources
+D:\KAMPUS\_PBD\_PBD_GASAL 2019-2020\Week3\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Debug\SistemPenjualanPembelian.FormDaftarBarang.resources
+D:\KAMPUS\_PBD\_PBD_GASAL 2019-2020\Week3\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Debug\SistemPenjualanPembelian.FormHapusBarang.resources
+D:\KAMPUS\_PBD\_PBD_GASAL 2019-2020\Week3\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Debug\SistemPenjualanPembelian.FormHapusKategori.resources
+D:\KAMPUS\_PBD\_PBD_GASAL 2019-2020\Week3\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Debug\SistemPenjualanPembelian.FormHapusPegawai.resources
+D:\KAMPUS\_PBD\_PBD_GASAL 2019-2020\Week3\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Debug\SistemPenjualanPembelian.FormLogin.resources
+D:\KAMPUS\_PBD\_PBD_GASAL 2019-2020\Week3\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Debug\SistemPenjualanPembelian.FormTambahBarang.resources
+D:\KAMPUS\_PBD\_PBD_GASAL 2019-2020\Week3\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Debug\SistemPenjualanPembelian.FormTambahKategori.resources
+D:\KAMPUS\_PBD\_PBD_GASAL 2019-2020\Week3\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Debug\SistemPenjualanPembelian.FormTambahNotaJual.resources
+D:\KAMPUS\_PBD\_PBD_GASAL 2019-2020\Week3\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Debug\SistemPenjualanPembelian.FormTambahPegawai.resources
+D:\KAMPUS\_PBD\_PBD_GASAL 2019-2020\Week3\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Debug\SistemPenjualanPembelian.FormUbahBarang.resources
+D:\KAMPUS\_PBD\_PBD_GASAL 2019-2020\Week3\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Debug\SistemPenjualanPembelian.FormUbahKategori.resources
+D:\KAMPUS\_PBD\_PBD_GASAL 2019-2020\Week3\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Debug\SistemPenjualanPembelian.FormUbahPegawai.resources
+D:\KAMPUS\_PBD\_PBD_GASAL 2019-2020\Week3\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Debug\SistemPenjualanPembelian.FormUtama.resources
+D:\KAMPUS\_PBD\_PBD_GASAL 2019-2020\Week3\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Debug\SistemPenjualanPembelian.Properties.Resources.resources
+D:\KAMPUS\_PBD\_PBD_GASAL 2019-2020\Week3\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Debug\SistemPenjualanPembelian.csproj.GenerateResource.cache
+D:\KAMPUS\_PBD\_PBD_GASAL 2019-2020\Week3\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Debug\SistemPenjualanPembelian.csproj.CoreCompileInputs.cache
+D:\KAMPUS\_PBD\_PBD_GASAL 2019-2020\Week3\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Debug\SistemPenjualanPembelian.csproj.CopyComplete
+D:\KAMPUS\_PBD\_PBD_GASAL 2019-2020\Week3\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Debug\SistemPenjualanPembelian.exe
+D:\KAMPUS\_PBD\_PBD_GASAL 2019-2020\Week3\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Debug\SistemPenjualanPembelian.pdb
+C:\Users\Naufal\Documents\SistemPenjualanPembelian\SistemPenjualanPembelian\bin\Debug\SistemPenjualanPembelian.exe.config
+C:\Users\Naufal\Documents\SistemPenjualanPembelian\SistemPenjualanPembelian\bin\Debug\SistemPenjualanPembelian.exe
+C:\Users\Naufal\Documents\SistemPenjualanPembelian\SistemPenjualanPembelian\bin\Debug\SistemPenjualanPembelian.pdb
+C:\Users\Naufal\Documents\SistemPenjualanPembelian\SistemPenjualanPembelian\bin\Debug\JualBeli_LIB.dll
+C:\Users\Naufal\Documents\SistemPenjualanPembelian\SistemPenjualanPembelian\bin\Debug\MySql.Data.dll
+C:\Users\Naufal\Documents\SistemPenjualanPembelian\SistemPenjualanPembelian\bin\Debug\JualBeli_LIB.pdb
+C:\Users\Naufal\Documents\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Debug\SistemPenjualanPembelian.FormDaftarKategori.resources
+C:\Users\Naufal\Documents\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Debug\SistemPenjualanPembelian.FormDaftarBarang.resources
+C:\Users\Naufal\Documents\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Debug\SistemPenjualanPembelian.FormHapusBarang.resources
+C:\Users\Naufal\Documents\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Debug\SistemPenjualanPembelian.FormHapusKategori.resources
+C:\Users\Naufal\Documents\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Debug\SistemPenjualanPembelian.FormHapusPegawai.resources
+C:\Users\Naufal\Documents\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Debug\SistemPenjualanPembelian.FormLogin.resources
+C:\Users\Naufal\Documents\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Debug\SistemPenjualanPembelian.FormTambahBarang.resources
+C:\Users\Naufal\Documents\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Debug\SistemPenjualanPembelian.FormTambahKategori.resources
+C:\Users\Naufal\Documents\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Debug\SistemPenjualanPembelian.FormTambahNotaJual.resources
+C:\Users\Naufal\Documents\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Debug\SistemPenjualanPembelian.FormTambahPegawai.resources
+C:\Users\Naufal\Documents\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Debug\SistemPenjualanPembelian.FormUbahBarang.resources
+C:\Users\Naufal\Documents\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Debug\SistemPenjualanPembelian.FormUbahKategori.resources
+C:\Users\Naufal\Documents\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Debug\SistemPenjualanPembelian.FormUbahPegawai.resources
+C:\Users\Naufal\Documents\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Debug\SistemPenjualanPembelian.FormUtama.resources
+C:\Users\Naufal\Documents\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Debug\SistemPenjualanPembelian.Properties.Resources.resources
+C:\Users\Naufal\Documents\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Debug\SistemPenjualanPembelian.csproj.GenerateResource.cache
+C:\Users\Naufal\Documents\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Debug\SistemPenjualanPembelian.csproj.CoreCompileInputs.cache
+C:\Users\Naufal\Documents\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Debug\SistemPenjualanPembelian.csproj.CopyComplete
+C:\Users\Naufal\Documents\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Debug\SistemPenjualanPembelian.exe
+C:\Users\Naufal\Documents\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Debug\SistemPenjualanPembelian.pdb
+C:\Users\Naufal\Documents\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Debug\SistemPenjualanPembelian.csprojAssemblyReference.cache
+C:\Users\Naufal\Desktop\SistemPenjualanPembelian\SistemPenjualanPembelian\bin\Debug\SistemPenjualanPembelian.exe.config
+C:\Users\Naufal\Desktop\SistemPenjualanPembelian\SistemPenjualanPembelian\bin\Debug\SistemPenjualanPembelian.exe
+C:\Users\Naufal\Desktop\SistemPenjualanPembelian\SistemPenjualanPembelian\bin\Debug\SistemPenjualanPembelian.pdb
+C:\Users\Naufal\Desktop\SistemPenjualanPembelian\SistemPenjualanPembelian\bin\Debug\JualBeli_LIB.dll
+C:\Users\Naufal\Desktop\SistemPenjualanPembelian\SistemPenjualanPembelian\bin\Debug\MySql.Data.dll
+C:\Users\Naufal\Desktop\SistemPenjualanPembelian\SistemPenjualanPembelian\bin\Debug\JualBeli_LIB.pdb
+C:\Users\Naufal\Desktop\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Debug\SistemPenjualanPembelian.FormDaftarKategori.resources
+C:\Users\Naufal\Desktop\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Debug\SistemPenjualanPembelian.FormDaftarBarang.resources
+C:\Users\Naufal\Desktop\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Debug\SistemPenjualanPembelian.FormHapusBarang.resources
+C:\Users\Naufal\Desktop\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Debug\SistemPenjualanPembelian.FormHapusKategori.resources
+C:\Users\Naufal\Desktop\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Debug\SistemPenjualanPembelian.FormHapusPegawai.resources
+C:\Users\Naufal\Desktop\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Debug\SistemPenjualanPembelian.FormLogin.resources
+C:\Users\Naufal\Desktop\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Debug\SistemPenjualanPembelian.FormTambahBarang.resources
+C:\Users\Naufal\Desktop\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Debug\SistemPenjualanPembelian.FormTambahKategori.resources
+C:\Users\Naufal\Desktop\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Debug\SistemPenjualanPembelian.FormTambahNotaJual.resources
+C:\Users\Naufal\Desktop\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Debug\SistemPenjualanPembelian.FormTambahPegawai.resources
+C:\Users\Naufal\Desktop\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Debug\SistemPenjualanPembelian.FormUbahBarang.resources
+C:\Users\Naufal\Desktop\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Debug\SistemPenjualanPembelian.FormUbahKategori.resources
+C:\Users\Naufal\Desktop\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Debug\SistemPenjualanPembelian.FormUbahPegawai.resources
+C:\Users\Naufal\Desktop\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Debug\SistemPenjualanPembelian.FormUtama.resources
+C:\Users\Naufal\Desktop\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Debug\SistemPenjualanPembelian.Properties.Resources.resources
+C:\Users\Naufal\Desktop\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Debug\SistemPenjualanPembelian.csproj.GenerateResource.cache
+C:\Users\Naufal\Desktop\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Debug\SistemPenjualanPembelian.csproj.CoreCompileInputs.cache
+C:\Users\Naufal\Desktop\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Debug\SistemPenjualanPembelian.csproj.CopyComplete
+C:\Users\Naufal\Desktop\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Debug\SistemPenjualanPembelian.exe
+C:\Users\Naufal\Desktop\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Debug\SistemPenjualanPembelian.pdb
+C:\Users\Naufal\Desktop\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Debug\SistemPenjualanPembelian.csprojAssemblyReference.cache

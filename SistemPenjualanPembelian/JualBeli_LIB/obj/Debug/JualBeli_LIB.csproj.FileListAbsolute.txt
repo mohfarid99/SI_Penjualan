@@ -1,0 +1,28 @@
+D:\KAMPUS\_PBD\_PBD_GASAL 2019-2020\Week2\SistemPenjualanPembelian\JualBeli_LIB\bin\Debug\JualBeli_LIB.dll
+D:\KAMPUS\_PBD\_PBD_GASAL 2019-2020\Week2\SistemPenjualanPembelian\JualBeli_LIB\bin\Debug\JualBeli_LIB.pdb
+D:\KAMPUS\_PBD\_PBD_GASAL 2019-2020\Week2\SistemPenjualanPembelian\JualBeli_LIB\bin\Debug\MySql.Data.dll
+D:\KAMPUS\_PBD\_PBD_GASAL 2019-2020\Week2\SistemPenjualanPembelian\JualBeli_LIB\obj\Debug\JualBeli_LIB.csprojAssemblyReference.cache
+D:\KAMPUS\_PBD\_PBD_GASAL 2019-2020\Week2\SistemPenjualanPembelian\JualBeli_LIB\obj\Debug\JualBeli_LIB.csproj.CoreCompileInputs.cache
+D:\KAMPUS\_PBD\_PBD_GASAL 2019-2020\Week2\SistemPenjualanPembelian\JualBeli_LIB\obj\Debug\JualBeli_LIB.csproj.CopyComplete
+D:\KAMPUS\_PBD\_PBD_GASAL 2019-2020\Week2\SistemPenjualanPembelian\JualBeli_LIB\obj\Debug\JualBeli_LIB.dll
+D:\KAMPUS\_PBD\_PBD_GASAL 2019-2020\Week2\SistemPenjualanPembelian\JualBeli_LIB\obj\Debug\JualBeli_LIB.pdb
+D:\KAMPUS\_PBD\_PBD_GASAL 2019-2020\Week3\SistemPenjualanPembelian\JualBeli_LIB\bin\Debug\JualBeli_LIB.dll
+D:\KAMPUS\_PBD\_PBD_GASAL 2019-2020\Week3\SistemPenjualanPembelian\JualBeli_LIB\bin\Debug\JualBeli_LIB.pdb
+D:\KAMPUS\_PBD\_PBD_GASAL 2019-2020\Week3\SistemPenjualanPembelian\JualBeli_LIB\obj\Debug\JualBeli_LIB.csproj.CoreCompileInputs.cache
+D:\KAMPUS\_PBD\_PBD_GASAL 2019-2020\Week3\SistemPenjualanPembelian\JualBeli_LIB\obj\Debug\JualBeli_LIB.csproj.CopyComplete
+D:\KAMPUS\_PBD\_PBD_GASAL 2019-2020\Week3\SistemPenjualanPembelian\JualBeli_LIB\obj\Debug\JualBeli_LIB.dll
+D:\KAMPUS\_PBD\_PBD_GASAL 2019-2020\Week3\SistemPenjualanPembelian\JualBeli_LIB\obj\Debug\JualBeli_LIB.pdb
+C:\Users\Naufal\Documents\SistemPenjualanPembelian\JualBeli_LIB\obj\Debug\JualBeli_LIB.csprojAssemblyReference.cache
+C:\Users\Naufal\Documents\SistemPenjualanPembelian\JualBeli_LIB\obj\Debug\JualBeli_LIB.csproj.CoreCompileInputs.cache
+C:\Users\Naufal\Documents\SistemPenjualanPembelian\JualBeli_LIB\obj\Debug\JualBeli_LIB.dll
+C:\Users\Naufal\Documents\SistemPenjualanPembelian\JualBeli_LIB\obj\Debug\JualBeli_LIB.pdb
+C:\Users\Naufal\Documents\SistemPenjualanPembelian\JualBeli_LIB\bin\Debug\JualBeli_LIB.dll
+C:\Users\Naufal\Documents\SistemPenjualanPembelian\JualBeli_LIB\bin\Debug\JualBeli_LIB.pdb
+C:\Users\Naufal\Documents\SistemPenjualanPembelian\JualBeli_LIB\obj\Debug\JualBeli_LIB.csproj.CopyComplete
+C:\Users\Naufal\Desktop\SistemPenjualanPembelian\JualBeli_LIB\bin\Debug\JualBeli_LIB.dll
+C:\Users\Naufal\Desktop\SistemPenjualanPembelian\JualBeli_LIB\bin\Debug\JualBeli_LIB.pdb
+C:\Users\Naufal\Desktop\SistemPenjualanPembelian\JualBeli_LIB\obj\Debug\JualBeli_LIB.csprojAssemblyReference.cache
+C:\Users\Naufal\Desktop\SistemPenjualanPembelian\JualBeli_LIB\obj\Debug\JualBeli_LIB.csproj.CoreCompileInputs.cache
+C:\Users\Naufal\Desktop\SistemPenjualanPembelian\JualBeli_LIB\obj\Debug\JualBeli_LIB.csproj.CopyComplete
+C:\Users\Naufal\Desktop\SistemPenjualanPembelian\JualBeli_LIB\obj\Debug\JualBeli_LIB.dll
+C:\Users\Naufal\Desktop\SistemPenjualanPembelian\JualBeli_LIB\obj\Debug\JualBeli_LIB.pdb
